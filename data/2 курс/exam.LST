@@ -1,0 +1,27 @@
+  ADDR B1 B2 B3 B4 C:\Users\kirka\OneDrive\Рабочий стол\exam.asm    PAGE       1
+
+                    org $8000
+  8000 36           psha
+  8001 37           pshb
+
+  8002 C4 55        andb #%01010101
+  8004 F7 90 00     stab $9000
+  8007 84 AA        anda #%10101010
+  8009 BA 90 00     oraa $9000
+  800C B7 90 00     staa $9000
+
+  800F 33           pulb
+  8010 32           pula
+
+  8011 36           psha
+  8012 37           pshb
+  8013 C4 AA        andb #%10101010
+  8015 F7 90 01     stab $9001
+  8018 84 55        anda #%01010101
+  801A BA 90 01     oraa $9001
+  801D 16           tab
+  801E B6 90 00     ldaa $9000
+
+  8021 8F           xgdx
+  8022 33           pulb
+  8023 32           pula

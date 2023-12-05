@@ -1,0 +1,11 @@
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\bin\Debug\net6.0\Calculations.deps.json
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\bin\Debug\net6.0\Calculations.dll
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\bin\Debug\net6.0\Calculations.pdb
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\Calculations.dll
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\Calculations.pdb
+D:\Uni\Maple_grove\data\3sem\IiSP-CSharp\Lab07\Calculations\obj\Debug\net6.0\ref\Calculations.dll
